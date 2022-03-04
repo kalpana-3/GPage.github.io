@@ -11,7 +11,7 @@ a{
     text-decoration:none;
 }
 a:hover{
-    text-decoration-underline;
+    text-decoration:underline;
 }
 #nav a{
     margin-right:20px;
